@@ -1,0 +1,56 @@
+        <footer class="footer">
+    <div class="container">
+        <div class="footer__container">
+
+            <section class="address">
+                <img src='' class="footer_logo" alt="Stumeta Logo">
+                <address>
+                    <p></p>
+                    <p></p>
+                </address>
+            </section>
+
+            <section class="venue">
+                <p>Veranstalter:</p>
+                <a href="" target="_blank">
+                    <img src='' class="hochschul_logo" title="" alt="">
+                </a>
+            </section>
+
+            <section class="navigation">
+                <nav>
+                    <ul>
+                        
+                        
+                            <li>
+                            <a class=" " href="/privacy-policy/">
+                                 Privacy Policy
+                            </a>
+                            </li>
+                        
+                            <li>
+                            <a class=" " href="/legal-notice/">
+                                 Legal Notice
+                            </a>
+                            </li>
+                        
+                        
+                            <li>
+                            <a class=" " href="/contact/">
+                                 Contact
+                            </a>
+                            </li>
+                        
+                      </ul>
+                </nav></section>
+
+        </div>
+    </div>
+
+  <!-- JavaScript and dependencies -->
+
+  {{ $bootstrap := resources.Get "js/bootstrap.bundle.min.js" }}
+  {{ $js := slice $bootstrap | resources.Concat "js/bundle.js" | resources.Minify }}
+
+  <script src="{{$js.RelPermalink}}" defer></script>
+</footer>

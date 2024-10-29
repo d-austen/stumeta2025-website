@@ -1,0 +1,18 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+disableKinds = ['taxonomy', 'term']
+logo = 'static/img/logo_large.jpg'
+
+
+[module]
+  [[module.mounts]]
+    source = "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+    target = "assets/js/bootstrap.bundle.min.js"
+  [[module.mounts]]
+    source = "node_modules/bootstrap/scss"
+    target = "assets/sass/bootstrap"
+
+  [[module.mounts]]
+source = "assets"
+target = "assets"
