@@ -390,6 +390,8 @@ progress {
   padding-left: calc(var(--bs-gutter-x) * .5);
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: auto;
+  margin-top: auto;
 }
 
 @media (min-width: 576px) {
@@ -856,7 +858,8 @@ progress {
 .nav-link {
   display: block;
   padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
-  font-size: var(--bs-nav-link-font-size);
+  /*font-size: var(--bs-nav-link-font-size);*/
+  font-size: 20px;
   font-weight: var(--bs-nav-link-font-weight);
   color: var(--bs-nav-link-color);
   text-decoration: none;
@@ -1525,7 +1528,7 @@ progress {
 }
 :root {
   --hs-brand-blue:#00B8FF;
-  --f-roscon-brand-blue:#FFD9F5; //brand,burger etc dark
+  --stumeta-brand-blue:#FFD9F5; //brand,burger etc dark
   --stumeta-blue-hour:#000145; //brand,burger etc light
   --stumeta-blue-hour-darker:#17176b;
   --white:#fff;
@@ -1626,7 +1629,7 @@ body {
 
 @media (min-width: 576px) {
   body {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -1668,7 +1671,7 @@ h2 {
   font-style: normal;
   line-height: 1.3;
   letter-spacing: normal;
-  margin-bottom: 0.8em;
+  margin-bottom: 0.0em;
 }
 
 @media (min-width: 576px) {
@@ -1879,7 +1882,7 @@ header {
     width: 7.1em;
     padding: 0;
     float: left;
-    content: url(../img/logo1.png);
+    content: url(/img/logo1.png);
   }
 }
 
@@ -1890,7 +1893,7 @@ header {
 }
 
 .ocean header img.logo {
-  content: url(../img/logo1.png);
+  content: url(/img/logo1.png);
 }
 
 @media (min-width: 768px) {
@@ -2009,11 +2012,11 @@ header {
           }
 
           &:hover {
-            color: var(--f-roscon-brand-blue);
+            color: var(--stumeta-brand-blue);
           }
 
           &.active span {
-            border-bottom: 3px solid var(--f-roscon-brand-blue);
+            border-bottom: 3px solid var(--stumeta-brand-blue);
           }
         }
       }
@@ -2024,7 +2027,7 @@ header {
     color: #fff;
 
     &:hover {
-      color: var(--f-roscon-brand-blue);
+      color: var(--stumeta-brand-blue);
     }
   }
 
@@ -2090,10 +2093,10 @@ header {
   .ocean header #lightswitch {
     .lightswitch-knob {
       margin-left: 1.2em;
-      background-color: var(--f-roscon-brand-blue);
+      background-color: var(--stumeta-brand-blue);
     }
 
-    border-color: var(--f-roscon-brand-blue);
+    border-color: var(--stumeta-brand-blue);
   }
 
   header #lightswitch:after {
@@ -2104,7 +2107,7 @@ header {
   }
 
   .ocean header #lightswitch:after {
-    color: var(--f-roscon-brand-blue);
+    color: var(--stumeta-brand-blue);
     content: "Light";
   }
 
@@ -2125,8 +2128,8 @@ header {
   }
 
   .ocean header nav.navbar ul > li.language-nav > a {
-    border-color: var(--f-roscon-brand-blue);
-    color: var(--f-roscon-brand-blue);
+    border-color: var(--stumeta-brand-blue);
+    color: var(--stumeta-brand-blue);
   }
 
   #visible-buttons {
@@ -2299,7 +2302,7 @@ header {
   }
 
   .ocean button.navbar-toggler {
-    color: var(--f-roscon-brand-blue);
+    color: var(--stumeta-brand-blue);
   }
 
   button.navbar-toggler {
@@ -2563,15 +2566,15 @@ stop.shaded-gradient {
 
 @media (min-width: 992px) {
   .hero {
-    margin-top: 10em;
-    margin-bottom: 15em;
+    margin-top: 5em;
+    margin-bottom: 5em;
 
     .month-year {
       font-size: 2em;
     }
 
     .days {
-      font-size: 8.5em;
+      font-size: 7em;
     }
 
     .what {
@@ -3458,3 +3461,35 @@ body {
   min-height: 100vh;
 }
 
+.flex-wrapper {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.wave-container {
+  height: 0vh;
+  background-color: #20B2AA;
+  position: relative;
+}
+
+.wave-container::before {
+  content: "";
+  width: 100%;
+  height: 30px;
+  position: absolute;
+  margin-bottom: -1px;
+  bottom: 0.3%;
+  left: 0;
+  background-size: auto;
+  background-repeat: repeat no-repeat;
+  background-position: 20vw bottom;
+  background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 1200  134' fill='none' xmlns='http://www.w3.org/2000/svg'><path d='M0 98L50 92C100 86 200 74 300 50C400 26 500 -10 600 2C700 14 800 74 900 98C1000 122 1100 110 1150 104L1200 98V134H1150C1100 134 1000 134 900 134C800 134 700 134 600 134C500 134 400 134 300 134C200 134 100 134 50 134H0V98Z' fill='%230a0a46'/></svg>");
+}
+
+@media(max-width:850px) {
+  .wave-container::before {
+    height: 15.5px
+  }
+}

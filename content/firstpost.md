@@ -1,7 +1,2 @@
----
-title: "First post"
----
+# Hey there!
 
-This line is from `content/firstpost.md`.
-
-[Go to home](/)
