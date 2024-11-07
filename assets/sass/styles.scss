@@ -1875,11 +1875,11 @@ header {
   }
 
   img.logo {
-    height: 2em;
+    height: 4em;
     width: 7.1em;
     padding: 0;
     float: left;
-    content: url(../img/FrOSCon-Logo-rgb-dark-blue.svg);
+    content: url(../img/logo1.png);
   }
 }
 
@@ -1890,12 +1890,12 @@ header {
 }
 
 .ocean header img.logo {
-  content: url(../img/FrOSCon-Logo-rgb-cyan.svg);
+  content: url(../img/logo1.png);
 }
 
 @media (min-width: 768px) {
   header img.logo {
-    height: 2em;
+    height: 3.7em;
     width: 8.3em;
   }
 }
@@ -2480,7 +2480,6 @@ stop.shaded-gradient {
     font-size: 1.2em;
     font-weight: 600;
     line-height: 1.23;
-    text-transform: uppercase;
     color: var(--stumeta-midnight-blue-dark);
   }
 }
