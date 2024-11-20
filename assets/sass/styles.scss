@@ -1530,7 +1530,7 @@ progress {
   --hs-brand-blue:#00B8FF;
   --stumeta-pink:#FFD9F5; //brand,burger etc dark
   --stumeta-pink1:#0a2744; //brand,burger etc dark
-  --stumeta-darkblue:#000145; //brand,burger etc light
+  --stumeta-darkblue:#000136; //brand,burger etc light
   --stumeta-darkblue-darker:#17176b;
   --white:#fff;
   --stumeta-midnight-blue-dark:#0a0a46;
@@ -1658,13 +1658,13 @@ h1 {
 
 @media (min-width: 576px) {
   h1 {
-    font-size: 3.4em;
+    font-size: 2.6em;
   }
 }
 
 @media (min-width: 992px) {
   h1 {
-    font-size: 4.8em;
+    font-size: 2.6em;
   }
 }
 
@@ -2015,8 +2015,12 @@ header {
           }
 
           &:hover {
-            color: var(--stumeta-pink1);
-          }
+            color: var(--stumeta-darkblue); /*change navbar hover*/
+            text-decoration: underline;
+            text-decoration-color: var(--stumeta-coldfront-blue);
+            text-decoration-thickness: 5px;
+            text-underline-offset: 8px;
+             }
 
           &.active span {
             border-bottom: 3px solid var(--stumeta-pink);
