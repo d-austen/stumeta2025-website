@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://d-austen.github.io/stumeta2025-website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 disableKinds = ['taxonomy', 'term']
