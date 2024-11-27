@@ -1,7 +1,7 @@
         <header>
   <nav class="navbar navbar-expand-lg" id="nav-main">
     <div class="container-fluid">
-      <a class="navbar-brand" id="link-logo" href="/">
+      <a class="navbar-brand" id="link-logo" href={{ relURL "" }}>
          <!--<img class="logo" title="Logo" alt="Logo" src="{{ "img/logo1.png" | absURL }}">-->
          <h2>STUMETA2025</h2>
       </a>
@@ -23,13 +23,13 @@
           
           
           <li class="nav-item">
-            <a class="nav-link " href="/register">
+		  <a class="nav-link " href={{ relURL "register" }}>
               
               <span>Register</span>
             </a>
           </li>
           <!--<li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle without-arrow " href="/program/" aria-label="Program">
+            <a class="nav-link dropdown-toggle without-arrow " href={{ relURL "program" }} aria-label="Program">
               
              <span>Program</span>
             </a>
@@ -44,14 +44,14 @@
             </ul>
           </li>-->
           <li class="nav-item">
-            <a class="nav-link " href="/program/">
+            <a class="nav-link " href={{ relURL "program" }}>
               
               <span>Program</span>
             </a>
           </li>
           
           <li class="nav-item">
-            <a class="nav-link " href="/partner/">
+            <a class="nav-link " href={{ relURL "partner" }}>
               
               <span>Partners</span>
             </a>
@@ -61,14 +61,14 @@
           
           
           <li class="nav-item">
-            <a class="nav-link " href="/faq/">
+            <a class="nav-link " href={{ relURL "faq" }}>
               
               <span>FAQ</span>
             </a>
           </li>
           
           <!--<li class="nav-item">
-            <a class="nav-link " href="/faq/">
+            <a class="nav-link " href={{ relURL "faq" }}>
               
                <img alt="self-Logo" src="img/instagram.svg">
             </a>

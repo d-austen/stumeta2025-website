@@ -1,4 +1,5 @@
-baseURL = 'https://d-austen.github.io/stumeta2025-website/'
+baseURL = 'https://d-austen.github.io/stumeta2025-website'
+#relativeURLs = true
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 disableKinds = ['taxonomy', 'term']
