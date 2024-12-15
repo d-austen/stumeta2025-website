@@ -3,7 +3,7 @@ baseURL = 'https://d-austen.github.io/stumeta2025-website'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 disableKinds = ['taxonomy', 'term']
-logo = 'static/img/logo_large.jpg'
+logo = 'static/img/Stumeta-logo1.jpg'
 
 
 [module]

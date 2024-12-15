@@ -1881,11 +1881,11 @@ header {
   }
 
   img.logo {
-    height: 4em;
-    width: 7.1em;
+    height: 3em;
+    width: 3em;
     padding: 0;
     float: left;
-    content: url(/img/logo1.png);
+    content: "img/Stumeta-logo1.jpg";
   }
 }
 
@@ -1896,13 +1896,13 @@ header {
 }
 
 .ocean header img.logo {
-  content: url(/img/logo1.png);
+  content: "img/Stumeta-logo1.jpg";
 }
 
 @media (min-width: 768px) {
   header img.logo {
     height: 3.7em;
-    width: 8.3em;
+    width: 4.2em;
   }
 }
 
@@ -3479,7 +3479,8 @@ body {
 
 .wave-container {
   height: 0vh;
-  background-color: #20B2AA;
+  //background-color: #20B2AA;
+  background-color: var(--stumeta-darkblue);
   position: relative;
 }
 
