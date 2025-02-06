@@ -1,4 +1,4 @@
-# Concact
+# Contact
 
 - Do you want to help during the next Stumeta? 
 - Does your company want to support the event? 

@@ -1885,7 +1885,6 @@ header {
     width: 3em;
     padding: 0;
     float: left;
-    content: "img/Stumeta-logo1.jpg";
   }
 }
 
@@ -1896,7 +1895,6 @@ header {
 }
 
 .ocean header img.logo {
-  content: "img/Stumeta-logo1.jpg";
 }
 
 @media (min-width: 768px) {
@@ -3229,9 +3227,9 @@ details {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1em;
-  border-top: 1px solid var(--stumeta-darkblue);
-  padding-top: 1em;
-  margin-bottom: 4em;
+  //border-top: 1px solid var(--stumeta-darkblue);
+  padding-top: 2em;
+  margin-bottom: .5em;
 }
 
 .ocean .partner-grid {
@@ -3247,6 +3245,7 @@ details {
 .partner-grid__item {
   background: #fff;
   padding: 0.7em 1em;
+  border-radius: 10px;
 
   img {
     max-width: 100%;
