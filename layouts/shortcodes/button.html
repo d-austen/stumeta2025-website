@@ -1,0 +1,12 @@
+{{ $link := .Get "link" }}
+{{ $text := .Get "text" }}
+
+
+<div>
+	<a class="button-big button-hollow" href="{{ $link }}" title="">
+		{{ $text }}
+<span class="button-arrow">
+<svg><use xlink:href="#arrow"></use></svg>
+</span>
+</a>
+</div>
