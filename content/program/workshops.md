@@ -2,32 +2,30 @@
 
 &nbsp;
 
-### Mein workshops
+### Fluid Modeling of Atmospheric Flow and Dispersion Phenomena (Prof. Bernd Leitl)
 
-Sodales. Pellentesque odio lorem curae; tempus nisl fermentum mus tellus cubilia malesuada mauris duis rutrum Enim. Dictum ultrices elit mi non pharetra vitae maecenas. Sociosqu. Commodo sapien nam nam porttitor consequat pede nisi conubia torquent semper laoreet blandit sociis faucibus aenean, ornare cubilia curae; risus rhoncus rhoncus lobortis hendrerit natoque cubilia varius pede.
+Atmospheric flow and transport can be observed and modelled in different
+ways. Besides field observations and computational modeling, physical
+modelling of fluid flows represents a well-tried and frequently used
+approach for the investigation of complex turbulent flow and dispersion
+phenomena particularly in the lower atmospheric boundary layer. The
+workshop will very briefly introduce basic theory and modeling
+technology used in fluid modeling based on examples form the
+Environmental Wind Tunnel Laboratory at Hamburg University. A guided
+tour to the wind tunnel lab will be provided at the end of the workshop.
 
-Rutrum facilisis augue ullamcorper molestie. Maecenas ipsum litora penatibus quis. Class in eleifend urna. Senectus placerat. Fusce suscipit vulputate torquent. Maecenas.
+---
+### Fluid Modeling of Atmospheric Flow and Dispersion Phenomena (Prof. Bernd Leitl)
 
-Mattis nibh rutrum erat curae; integer rhoncus litora nascetur rutrum. Elementum ad justo vestibulum eleifend elit nostra cras vestibulum mauris. Nascetur elit. Per hymenaeos dui nullam.
+Atmospheric flow and transport can be observed and modelled in different
+ways. Besides field observations and computational modeling, physical
+modelling of fluid flows represents a well-tried and frequently used
+approach for the investigation of complex turbulent flow and dispersion
+phenomena particularly in the lower atmospheric boundary layer. The
+workshop will very briefly introduce basic theory and modeling
+technology used in fluid modeling based on examples form the
+Environmental Wind Tunnel Laboratory at Hamburg University. A guided
+tour to the wind tunnel lab will be provided at the end of the workshop.
 
 ---
 
-
-
-### Mein workshops (Hans Günther)
-
-Sodales. Pellentesque odio lorem curae; tempus nisl fermentum mus tellus cubilia malesuada mauris duis rutrum Enim. Dictum ultrices elit mi non pharetra vitae maecenas. Sociosqu. Commodo sapien nam nam porttitor consequat pede nisi conubia torquent semper laoreet blandit sociis faucibus aenean, ornare cubilia curae; risus rhoncus rhoncus lobortis hendrerit natoque cubilia varius pede.
-
-Rutrum facilisis augue ullamcorper molestie. Maecenas ipsum litora penatibus quis. Class in eleifend urna. Senectus placerat. Fusce suscipit vulputate torquent. Maecenas.
-
-Mattis nibh rutrum erat curae; integer rhoncus litora nascetur rutrum. Elementum ad justo vestibulum eleifend elit nostra cras vestibulum mauris. Nascetur elit. Per hymenaeos dui nullam.
-
----
-
-### Mein workshops
-
-Sodales. Pellentesque odio lorem curae; tempus nisl fermentum mus tellus cubilia malesuada mauris duis rutrum Enim. Dictum ultrices elit mi non pharetra vitae maecenas. Sociosqu. Commodo sapien nam nam porttitor consequat pede nisi conubia torquent semper laoreet blandit sociis faucibus aenean, ornare cubilia curae; risus rhoncus rhoncus lobortis hendrerit natoque cubilia varius pede.
-
-Rutrum facilisis augue ullamcorper molestie. Maecenas ipsum litora penatibus quis. Class in eleifend urna. Senectus placerat. Fusce suscipit vulputate torquent. Maecenas.
-
-Mattis nibh rutrum erat curae; integer rhoncus litora nascetur rutrum. Elementum ad justo vestibulum eleifend elit nostra cras vestibulum mauris. Nascetur elit. Per hymenaeos dui nullam.
