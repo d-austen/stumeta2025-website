@@ -22,9 +22,13 @@ Did you enjoy playing with model trains, cars, or plane models as a kid (or even
 Join us at the Klimahaus in Bremerhaven to learn about the different climate zones and re-live the trip that a journalist once took from Germany to the 8° East and around the world. As you walk through the Klimahaus, you can experience every climate zone as if you are there. Not only do you feel the climate, but you can also learn about the population there, as well as how the climate zones are changing with climate change. Besides the general exhibition, you may also experience some special exhibitions, such as the phenomenon of weather extremes due to climate change.
 
 ---
-### (Standup) paddling in the Alster canals (weather dependent)
+### Paddling in the Alster canals (weather dependent)
 Not only is the Elbe river the only larger water body in Hamburg, but also the Alster lake and its canals, which meander through the heart of the Hamburg city. It provides great opportunities for various water sports, such as paddling. Enjoy a fun and sporty day of paddling in some of the most tranquil canals with all the new, old, and still-yet-to-get-to-know friends from StuMeTa. You may even be accompanied by a flock of swans! 
 (Weather dependent. If the weather is unsuitable, a nearby museum will be the alternative.)
+
+---
+### Bike tour to the Altes Land
+In this excursion, you will join in on a trip to the Altes Land south of the Elbe River to see the peaceful countryside just a few kilometers away from the bustling city of Hamburg. In July and August, the Altes Land is the prime place for apple, cherry, and strawberry picking, but the sights in late spring/early summer can be just as stunning as one can imagine!
 
 ---
 ### NDR Studio Tonndorf
@@ -32,11 +36,11 @@ You have probably seen the Tagesschau multiple times, the German nightly news pr
 
 
 ---
-### Hike to the Travemünde Steilküste (with the possibility for swimming)
+### Hike Travemünde Steilküste (with the possibility for swimming)
 One of the nearest locations to beaches and seas for Hamburg is the small town of Travemünde - about 80 km away to the northeast of Hamburg near the city of Lübeck. During the excursion, you will have the opportunity to relax on the beaches, walk around the town, hike alongside the rigid coastline, or even take a dip in the Baltic Sea if you fancy! This is the hike you want to be at, if you enjoy the scenery of seas and beaches, or want to ponder about land-sea breezes and tidal waves near a large sea... 
 
 ---
-### Hike to the Harburge Berge/Seevetal 
+### Hike to the Harburger Berge/Seevetal 
 Despite not having the most impressive mountain ranges like in the Alps or the Harz mountains, Hamburg still has the Harburger Berge, located to the south of Hamburg, with an elevation of a whooping 155 m, the highest natural elevation anywhere near Hamburg. Even though it is not the mountain hike you expect, even though it is a Berg, you are still guaranteed to experience some unique landscapes, vegetations, and with some luck, even some wild animals!
 
 ---

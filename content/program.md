@@ -20,7 +20,7 @@ Ever wanted to launch a radiosonde? Or work in a meteorological wind tunnel? Fin
 &nbsp;
 ### Excursions
 
-Tired of the Geomatikum? Look behind-the-scenes of the "Tagesschau", take a boat tour trough the habour, or travel through all climate zones in a single day. Fine these and other excursion options here. 
+Tired of the Geomatikum? Look behind-the-scenes of the "Tagesschau", take a boat tour trough the habour, or travel through all climate zones in a single day. Find these and other excursion options here. 
 
 {{< button link="excursions" text="Excursions" >}}
 
