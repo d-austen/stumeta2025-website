@@ -13,6 +13,6 @@ You will receive an email with your workshops and excursion in the beginning of 
 
 ### Storno
 
-If you would like to cancel your participation you will receive a refund upon 2 weeks prior to the event. After that, please find an alternative participent by yourself.
+If you would like to cancel your participation you will receive a refund upon 2 weeks prior to the event. After that, please find an alternative participant by yourself.
 
 If you have questions regarding the registration, write us at [anmeldung@stumeta.net](mailto:anmeldung@stumeta.net)
