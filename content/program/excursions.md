@@ -52,10 +52,6 @@ You want to use the opportunity of StuMeTa to explore the most famous places in 
 The German Weather Service has numerous locations scattered around the entire federal republic. The Seewetteramt, which is in charge of the meteorological service in the northern Germany, locates in the heart of Hamburg with a view to the Elbe river and Landungsbrücken. Before touring the building, you will learn about the past, present, and future of the Seewetteramt, as the DWD and the German meteorology service continue evolving; the special roles that the Seewetteramt takes on in terms of forecasting, as it is the location that is the closest to the Northern and Baltic Sea. You may even have the opportunity to look at the meteorologist’s office where the weather report for northern Germany is made. You will also have the opportunity to enjoy the panoramic view from the top of the Seewetteramt while walking past various meteorological instruments. 
 
 ---
-### DESY
-The Deutsches Elektronen-SYnchrotron is one of the leading particle and atom accelerator centers worldwide. As a matter of fact, one of the two DESY locations is in Hamburg. During the tour around DESY, you will learn about particle physics and accelerators, how Hamburg is contributing to one of the most modern fronts in physics, and for sure have a glimpse on one of the largest particle accelerators! 
-
----
 ### METEK
 From smaller measurement instruments like ultrasonic anemometers, to micrometer rain radars to larger instruments like LIDAR and Doppler clouds radar, METEK is the company that has continuously provided German observational meteorology researchers with reliable instruments to guarantee successful researches. Join on a tour to METEK, located in the northwestern outskirts of Hamburg, to learn how the company maintains its quality throughout the years. 
 
