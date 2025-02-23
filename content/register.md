@@ -1,7 +1,10 @@
 # Registration
 
-*The registration is not open yet. It will start on 23 February 18:00 CET. You will find a link to the registration form here as soon as the registration opens.*
+**The registration is open! Please click the button below for the registration form.**
 
+{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSebekLw6gomseostCuLPs1eVVUzUj6uc0vKreyEZDrQVvv3-w/viewform?usp=sf_link" text="Register here" >}}
+
+&nbsp;
 ### Information about the registration process
 The registration period starts on 23 February 18:00 CET and closes on 09 March 18:00 CET. 
 
@@ -13,6 +16,6 @@ You will receive an email with your workshops and excursion in the beginning of 
 
 ### Storno
 
-If you would like to cancel your participation you will receive a refund upon 2 weeks prior to the event. After that, please find an alternative participant by yourself.
+If you would like to cancel your participation you will receive a refund upon 2 weeks prior to the event. After that, please find an alternative participent by yourself.
 
 If you have questions regarding the registration, write us at [anmeldung@stumeta.net](mailto:anmeldung@stumeta.net)
