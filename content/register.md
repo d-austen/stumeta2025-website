@@ -1,10 +1,9 @@
 # Registration
 
-*The registration is closed. Thank your for your interest*
+*The registration is closed. Thank you for your interest*
 
 [//]: # ({{< button link="https://docs.google.com/forms/d/e/1FAIpQLSebekLw6gomseostCuLPs1eVVUzUj6uc0vKreyEZDrQVvv3-w/viewform?usp=sf_link" text="Register here" >}})
 
-&nbsp;
 ### Information about the registration process
 The registration period starts on 23 February 18:00 CET and closes on 09 March 18:00 CET. 
 
