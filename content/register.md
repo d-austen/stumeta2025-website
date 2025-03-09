@@ -1,8 +1,8 @@
 # Registration
 
-**The registration is open! Please click the button below for the registration form.**
+*The registration is closed. Thank your for your interest*
 
-{{< button link="https://docs.google.com/forms/d/e/1FAIpQLSebekLw6gomseostCuLPs1eVVUzUj6uc0vKreyEZDrQVvv3-w/viewform?usp=sf_link" text="Register here" >}}
+[//]: # ({{< button link="https://docs.google.com/forms/d/e/1FAIpQLSebekLw6gomseostCuLPs1eVVUzUj6uc0vKreyEZDrQVvv3-w/viewform?usp=sf_link" text="Register here" >}})
 
 &nbsp;
 ### Information about the registration process
