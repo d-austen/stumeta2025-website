@@ -164,8 +164,9 @@ sup {
 }
 
 a {
-  color: var(--bs-link-color);
+  color: var(--stumeta-coldfront-blue);
   text-decoration: underline;
+  font-weight: 900;
 
   &:hover {
     color: var(--bs-link-hover-color);
@@ -235,6 +236,7 @@ img, svg {
 table {
   caption-side: bottom;
   border-collapse: collapse;
+  padding: 0px;
 }
 
 caption {
@@ -2885,7 +2887,7 @@ stop.shaded-gradient {
     &.multi-icon > * {
       display: inline-block;
       position: relative;
-      top: -2px;
+     // top: -2px;
     }
 
     &.multi-left {
@@ -3516,11 +3518,11 @@ body {
     pointer-events: none;
 }
 .table>:not(caption)>*>* {
-  padding:.5rem;
   color:var(--bs-table-color-state,var(--bs-table-color-type,var(--stumeta-darkblue)));
   background-color:transparent;
-  border-bottom-width:var(--bs-border-width);
+  border-bottom:5px solid rgba(0, 1, 54, .25);
   box-shadow:inset 0 0 0 9999px var(--bs-table-bg-state,var(--bs-table-bg-type,var(--bs-table-accent-bg)))
+  
 }
 
 
@@ -3561,4 +3563,30 @@ body {
   text-decoration:none;
   transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out
 
+}
+
+tr.noBorder th {
+  border-bottom: 0;
+}
+tr.noBorder td {
+  padding-top: 0px;
+}
+
+time {
+  font-weight: 900;
+  font-size: 26px;
+}
+
+td {
+  font-size: 20px;
+  font-weight: normal;
+}
+th {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+
+div.container {
+  max-width: 800px;
 }
