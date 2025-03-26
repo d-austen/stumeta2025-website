@@ -1,6 +1,16 @@
 # Program
 
-For this year we organised many exciting talks, workshops and excursions for you. Please through the descriptions and select your favourites in the registration form.
+
+
+For this year we organised many exciting talks, workshops and excursions for you. Find out more below.
+
+### When happens what? 
+Take a look at the schedule!
+
+{{< button link="schedule" text="Schedule" >}}
+&nbsp;
+
+
 
 
 ### Talks
