@@ -57,13 +57,13 @@ From the simplest one-layer illustration of the Earth’s radiation energy trans
 
 ---
 ### Design Contest - Your chance to be part of the StuMeTa history
-_Geomatikum 1536b_
+_Geomatikum 1536b+1536c_
 
 The StuMeTa needs a new general logo! In this workshop, you will be introduced to design tools and you will create your own logo. If your logo is selected in a public voting, the winner or winning team will have a guaranteed entry to the next StuMeTa in 2026. Furthermore, you will be part of the StuMeTa history for multiple years if not decades! As we are already dealing with digital tools, we'll discuss climate communication tools and we welcome input about your personal experience. If we have enough time left, you will have the chance to create your own memes which might be posted on the junge DMG social media channel.
  
 ---
 ### DKRZ Tour
-_Geomatikum 1536c_
+_DKRZ (Bu 45a)_
 
 The Deutsches Klimarechenzentrum (DKRZ, engl.: German Climate Computing Center) is the largest research institute in Germany that is in charge of the computing of large climate models. The DKRZ works closely with the Max-Planck-Institute for Meteorology (MPI-M) for the running and developing of its models, but is also in cooperation with other institutes. It is right next door to the Meteorological Institute of the University of Hamburg and the MPI-M. The demand for a high-speed and efficient computing center with a large storage continues increasing throughout the history of climate study, as more processes can be resolved and model resolution increases. In this workshop, you will learn about the history of DKRZ, the technical details behind the supercomputers installed in DKRZ, and its future development. You also have the opportunity to go on a tour inside the computing room and storage room in this workshop.
 
