@@ -16,8 +16,10 @@ on the longwave effects - where water vapor acts as a potent greenhouse gas,
 reinforcing warming - our research demonstrates that the shortwave impact is also
 positive. Using a simple yet powerful conceptual model, we quantify and explain this
 effect, shedding light on a somewhat neglected climate feedback mechanism.
-Volker Matthias
-Shipping emissions and their impact on air quality in coastal regions
+
+---
+### _Volker Matthias_
+### Shipping emissions and their impact on air quality in coastal regions
 Ships are large emitters of air pollutants, particularly NOx, SOx, and aerosol
 particles. Because shipping lanes are often close to the coast, these emissions have
 a significant impact on the air quality in populated areas. In addition, they may
@@ -45,7 +47,6 @@ future observing systems that require significant investments, such as future
 satellites.
 
 ---
-
 ### _Markus Dressel_
 ### Follow the science? The contested role of science in policymaking
 The role of science in politics remains a contentious issue. Numerous attempts have
@@ -63,9 +64,10 @@ that shape our understanding of the science-policy relationship and illustrate h
 different assumptions lead to competing models of interaction. By examining these
 foundational issues, it aims to provide a framework for critically reflecting on the
 diversity of possible science-policy arrangements and their normative implications.
-Felix Ament
-Meteorological basics reloaded - educational short stories from Hamburg
-Wettermast
+
+---
+### _Felix Ament_
+### Meteorological basics reloaded - educational short stories from Hamburg Wettermast
 Meteorological basics can not only be understood by theory or simulated on the
 computer, nature shows us a lot every day. You just have to go outside and take
 some measurements. Fortunately, the 300m high Hamburg Wettermast has been
