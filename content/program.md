@@ -16,9 +16,9 @@ Take a look at the schedule!
 ### Talks
 
 
-Scientists from the Meteorological Institues as well as local research facilities share insights from their latest projets. More information follows soon.
+Scientists from the Meteorological Institues as well as local research facilities share insights from their latest projets.
 
-[//]: <> ({{< button link="talks" text="Talks" >}})
+{{< button link="talks" text="Talks" >}}
 &nbsp;
 
 ### Workshops
