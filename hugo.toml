@@ -1,6 +1,7 @@
-baseURL = 'https://d-austen.github.io/stumeta2025-website'
-#baseURL = '.' #use this when opening from public folder, still need to adjust paths
-#relativeURLs = true
+#baseURL = 'https://d-austen.github.io/stumeta2025-website'
+baseURL = '/' #use this when opening from public folder, still need to adjust paths
+relativeURLs = true
+uglyURLs = true
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 disableKinds = ['taxonomy', 'term']

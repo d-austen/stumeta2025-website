@@ -7,7 +7,7 @@ For this year we organised many exciting talks, workshops and excursions for you
 ### When happens what? 
 Take a look at the schedule!
 
-{{< button link="schedule" text="Schedule" >}}
+{{< button link="program/schedule.html" text="Schedule" >}}
 &nbsp;
 
 
@@ -18,7 +18,7 @@ Take a look at the schedule!
 
 Scientists from the Meteorological Institues as well as local research facilities share insights from their latest projets.
 
-{{< button link="talks" text="Talks" >}}
+{{< button link="program/talks.html" text="Talks" >}}
 &nbsp;
 
 ### Workshops
@@ -26,11 +26,11 @@ Scientists from the Meteorological Institues as well as local research facilitie
 
 Ever wanted to launch a radiosonde? Or work in a meteorological wind tunnel? Find these and other workshop options here. 
 
-{{< button link="workshops" text="Workshops" >}}
+{{< button link="program/workshops.html" text="Workshops" >}}
 &nbsp;
 ### Excursions
 
 Tired of the Geomatikum? Look behind-the-scenes of the "Tagesschau", take a boat tour trough the habour, or travel through all climate zones in a single day. Find these and other excursion options here. 
 
-{{< button link="excursions" text="Excursions" >}}
+{{< button link="program/excursions.html" text="Excursions" >}}
 
